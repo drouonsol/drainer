@@ -1,0 +1,8 @@
+.container {
+}
+@font-face {
+    font-family: 'Skrapbook';
+    src: url('./fonts/Skrapbook.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
